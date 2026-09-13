@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My pinnbluff Website</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <h2 class="logo">
+              Pinnbluff<span>Associate desgin</span></h2>
+
+            <div class="nav-links">
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#services">Services</a>
+                <a href="#portfolio">Portfolio</a>
+                <a href="#contact">Contact</a>
+            </div>
+        </nav>
+    </header>
+
+
+    <section id="home" class="hero">
+
+        <div class="hero-content">
+
+            <p class="small-text">
+                GRAPHIC DESIGN • WEB DESIGN • BRANDING
+            </p>
+
+            <h1>
+                Turning ideas into
+                <span>beautiful designs.</span>
+            </h1>
+
+            <p>
+                I create modern and professional designs
+                that help businesses and individuals stand out.
+            </p>
+
+            <a href="#portfolio" class="button">
+                View My Work
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <section id="about">
+
+        <div class="section-content">
+
+            <p class="small-text">ABOUT ME</p>
+
+            <h2>pinnbluff Associate design with purpose.</h2>
+
+            <p>
+                I'm a creative designer passionate about creating
+                clean, modern and memorable visual experiences.
+                I help businesses turn their ideas into professional
+                designs that connect with their audience.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <section id="services">
+
+        <div class="section-content">
+
+            <p class="small-text">MY SERVICES</p>
+
+            <h2>What I Do</h2>
+
+            <div class="cards">
+
+                <div class="card">
+                    <h3>Graphic Design</h3>
+                    <p>
+                        Flyers, posters, advertisements,
+                        social media graphics and more.
+                    </p>
+                </div>
+
+                <div class="card">
+                    <h3>Brand Identity</h3>
+                    <p>
+                        Professional branding that helps
+                        businesses become recognizable.
+                    </p>
+                </div>
+
+                <div class="card">
+                    <h3>Web Design</h3>
+                    <p>
+                        Modern responsive websites for
+                        businesses, creators and individuals.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <section id="portfolio">
+
+        <div class="section-content">
+
+            <p class="small-text">MY WORK</p>
+
+            <h2>Portfolio</h2>
+
+            <div class="portfolio">
+
+                <div class="project">
+                    <div class="project-box">BRAND</div>
+                    <h3>Brand Identity</h3>
+                </div>
+
+                <div class="project">
+                    <div class="project-box">SOCIAL</div>
+                    <h3>Social Media Design</h3>
+                </div>
+
+                <div class="project">
+                    <div class="project-box">WEB</div>
+                    <h3>Website Design</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <section id="contact">
+
+        <div class="section-content">
+
+            <p class="small-text">CONTACT</p>
+
+            <h2>Let's work together.</h2>
+
+            <p>
+                Have a project in mind? I'd love to hear about it.
+            </p>
+
+            <a href="mailto:balogunabdulqudus438@gmail.com" class="button">
+                Contact Me
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <footer>
+
+        <p>
+            © 2026 Pinnbluff Associate design. All rights reserved.
+        </p>
+
+    </footer>
+
+
+</body>
+</html>
